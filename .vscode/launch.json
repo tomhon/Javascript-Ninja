@@ -5,7 +5,7 @@
             "name": "Launch",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/app.js",
+            "program": "${workspaceRoot}/javascript_ninja/ch4.16.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
